@@ -53,7 +53,7 @@ The parent component listens for updates from the child and dynamically displays
 
 1. Clone this repository:  
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/SanchithaSamarasinghe/practicle_D7.git>
    ```  
 2. Navigate to the project directory:  
    ```bash
