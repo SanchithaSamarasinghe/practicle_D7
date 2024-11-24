@@ -83,8 +83,3 @@ The parent component listens for updates from the child and dynamically displays
 ### **Contributors**  
 - **2020/ICT/68**
 
-Feel free to fork and experiment with the project!  
-
----  
-
-Let me know if you'd like to customize it further.
