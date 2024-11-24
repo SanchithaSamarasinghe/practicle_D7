@@ -1,9 +1,9 @@
-export default function Childcom(props){
+export default function Child(props){
     return(
         <>
-        <h3>Hello React I'm Child</h3>
+        <h3>Hello I'm Child</h3>
         {
-            props.setfun("My Name is Bob")
+            props.setfun("My Name is arbiter")
         }
         </>
 
